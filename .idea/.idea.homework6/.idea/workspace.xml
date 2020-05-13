@@ -10,6 +10,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/homework6/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework6/Director.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework6/Chief.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework6/Employee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework6/Worker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework6/Statement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/homework6/statement.cs" />
+        <option value="$PROJECT_DIR$/homework6/Properties/co-workers.cs" />
+        <option value="$PROJECT_DIR$/homework6/workers.cs" />
+        <option value="$PROJECT_DIR$/homework6/Workers.cs" />
+        <option value="$PROJECT_DIR$/homework6/IWorker.cs" />
+        <option value="$PROJECT_DIR$/homework6/employee.cs" />
+        <option value="$PROJECT_DIR$/homework6/chief.cs" />
+        <option value="$PROJECT_DIR$/homework6/Chief.cs" />
+        <option value="$PROJECT_DIR$/homework6/Director.cs" />
+        <option value="$PROJECT_DIR$/homework6/Employee.cs" />
+        <option value="$PROJECT_DIR$/homework6/Worker.cs" />
+        <option value="$PROJECT_DIR$/homework6/Statement.cs" />
+        <option value="$PROJECT_DIR$/homework6/Program.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1bqLM0macHsBFxs3oVjWWYQNFoq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,6 +87,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1340" height="210" key="GridCell.Tab.0.bottom" timestamp="1589360511683">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="210" key="GridCell.Tab.0.bottom/0.0.1600.870/-1280.-124.1280.994@0.0.1600.870" timestamp="1589360511683" />
+    <state width="1340" height="210" key="GridCell.Tab.0.center" timestamp="1589360511683">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="210" key="GridCell.Tab.0.center/0.0.1600.870/-1280.-124.1280.994@0.0.1600.870" timestamp="1589360511683" />
+    <state width="1340" height="210" key="GridCell.Tab.0.left" timestamp="1589360511682">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="210" key="GridCell.Tab.0.left/0.0.1600.870/-1280.-124.1280.994@0.0.1600.870" timestamp="1589360511682" />
+    <state width="1340" height="210" key="GridCell.Tab.0.right" timestamp="1589360511683">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="210" key="GridCell.Tab.0.right/0.0.1600.870/-1280.-124.1280.994@0.0.1600.870" timestamp="1589360511683" />
+    <state x="647" y="123" key="RiderGenerateDialog" timestamp="1589358611500">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="647" y="123" key="RiderGenerateDialog/0.0.1600.870/-1280.-124.1280.994@0.0.1600.870" timestamp="1589358611500" />
+  </component>
 </project>
