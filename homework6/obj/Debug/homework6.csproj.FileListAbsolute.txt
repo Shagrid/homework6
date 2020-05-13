@@ -1,0 +1,6 @@
+C:\Users\shagr\Documents\GitHub\hw6\homework6\homework6\bin\Debug\homework6.exe
+C:\Users\shagr\Documents\GitHub\hw6\homework6\homework6\bin\Debug\homework6.pdb
+C:\Users\shagr\Documents\GitHub\hw6\homework6\homework6\obj\Debug\homework6.csprojAssemblyReference.cache
+C:\Users\shagr\Documents\GitHub\hw6\homework6\homework6\obj\Debug\homework6.csproj.CoreCompileInputs.cache
+C:\Users\shagr\Documents\GitHub\hw6\homework6\homework6\obj\Debug\homework6.exe
+C:\Users\shagr\Documents\GitHub\hw6\homework6\homework6\obj\Debug\homework6.pdb
